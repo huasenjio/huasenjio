@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huasenjio&repo=huasen-portal&theme=dark&bg_color=0d1117&hide_border=true" />
   </a>
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huasenjio&repo=huasen-example&theme=dark&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huasenjio&repo=huasenjio-compose&theme=dark&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
@@ -46,6 +46,6 @@
 
 <!-- 免责声明 -->
 <h1 align="center">免责声明</h1>
-<p align="center">静态站点演示仓库，本站严格遵守中华人民共和国相关法律。一切资源均来源于免费论坛社区，仅供大家学习交流，请勿用于商业用途！</p>
+<p align="center">静态站点演示仓库，本站严格遵守中华人民共和国相关法律。仅供大家学习交流，请勿用于商业用途！</p>
 
 
